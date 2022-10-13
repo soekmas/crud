@@ -1,6 +1,6 @@
 <!-- Aplikasi CRUD dengan PHP 7, MySQLi, Ajax, DataTables ServerSide, Bootstrap 4, dan SweetAlert 
 *************************************************************************************************
-* Developer    : Indra Styawantoro
+* Developer    : fahmi
 * Company      : Indra Studio
 * Release Date : Oktober 2018
 * Update       : -
